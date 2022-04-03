@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Malpuriya</h1>
-<h3 align="center">A passionate game developer from India</h3>
+<h3 align="center">A Passionate Game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmalpuriya05&label=Profile%20views&color=0e75b6&style=flat" alt="karanmalpuriya05" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
@@ -18,6 +18,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18364269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18364269" height="30" width="40" /></a>
 <a href="https://instagram.com/lookdevorignal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lookdevorignal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCg3IrNKR_hdObOlNBxH8Xfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lookdev" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8208882437303158146" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/google-play.svg" alt="lookdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
