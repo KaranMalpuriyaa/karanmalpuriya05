@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18364269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18364269" height="30" width="40" /></a>
-<a href="https://instagram.com/lookdevorignal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lookdevorignal" height="30" width="40" /></a>
+<a href="https://instagram.com/LookDev05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lookdevorignal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCg3IrNKR_hdObOlNBxH8Xfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lookdev" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/karan-malpuriya-101977233/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_223948.svg" alt="lookdev" height="30" width="40" /></a> 
 </p>
