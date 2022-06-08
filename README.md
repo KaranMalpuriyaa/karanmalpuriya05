@@ -1,4 +1,4 @@
-# Karan Malpuriya;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Karan Malpuriya
 
 <h4 align="center">Game developer, Proggrammer, Youtuber, web designer </h4>
 
