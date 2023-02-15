@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Unity3D, C#, Game development Q&A**
 
-- 📫 How to reach me **karanmalpuriya1nitin@gmail.com**
+- 📫 How to reach me **karanmalpuriya1@gmail.com**
 
 - ⚡ Fun fact **Video games is my passion! I creating games in Unity for more than 2 years. I finished various games of different genres and different platforms: iOS / Android, Web, PC / Mac. Also I have a lot of prototypes and playable demos. I am a game developer:) It means I love to be a part of every aspect of development: game design, art, programming, storytelling.**
 
